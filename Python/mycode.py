@@ -10,6 +10,9 @@ def addition(x: int|float, y: int|float) -> int|float:
     """
     return x + y
 
+def division(x, y):
+    return x / y
+
 def multiplication(x: int|float, y: int|float) -> int|float:
     """Multiplies two numbers
 
