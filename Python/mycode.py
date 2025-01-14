@@ -13,6 +13,9 @@ def addition(x: int|float, y: int|float) -> int|float:
 def division(x, y):
     return x / y
 
+def subtraction(x, y):
+    return x - y
+
 def multiplication(x: int|float, y: int|float) -> int|float:
     """Multiplies two numbers
 
